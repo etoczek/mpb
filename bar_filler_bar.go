@@ -4,9 +4,9 @@ import (
 	"io"
 
 	"github.com/acarl005/stripansi"
+	"github.com/etoczek/mpb/v8/decor"
+	"github.com/etoczek/mpb/v8/internal"
 	"github.com/mattn/go-runewidth"
-	"github.com/vbauerster/mpb/v8/decor"
-	"github.com/vbauerster/mpb/v8/internal"
 )
 
 const (

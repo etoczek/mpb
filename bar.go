@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/acarl005/stripansi"
+	"github.com/etoczek/mpb/v8/decor"
 	"github.com/mattn/go-runewidth"
-	"github.com/vbauerster/mpb/v8/decor"
 )
 
 // Bar represents a progress bar.

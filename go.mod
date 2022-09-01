@@ -4,6 +4,7 @@ require (
 	github.com/VividCortex/ewma v1.2.0
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/mattn/go-runewidth v0.0.13
+	github.com/etoczek/mpb/v8 v8.0.0-20220831090437-c0272e6db17a
 	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
 )
 

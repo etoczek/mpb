@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/vbauerster/mpb/v8/decor"
+	"github.com/etoczek/mpb/v8/decor"
 )
 
 // BarOption is a func option to alter default behavior of a bar.

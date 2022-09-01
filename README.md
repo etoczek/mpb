@@ -1,7 +1,7 @@
 # Multi Progress Bar
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/vbauerster/mpb)](https://pkg.go.dev/github.com/vbauerster/mpb/v8)
-[![Test status](https://github.com/vbauerster/mpb/actions/workflows/test.yml/badge.svg)](https://github.com/vbauerster/mpb/actions/workflows/test.yml)
+[![GoDoc](https://pkg.go.dev/badge/github.com/etoczek/mpb)](https://pkg.go.dev/github.com/etoczek/mpb/v8)
+[![Test status](https://github.com/etoczek/mpb/actions/workflows/test.yml/badge.svg)](https://github.com/etoczek/mpb/actions/workflows/test.yml)
 
 **mpb** is a Go lib for rendering progress bars in terminal applications.
 
@@ -25,8 +25,8 @@ import (
     "math/rand"
     "time"
 
-    "github.com/vbauerster/mpb/v8"
-    "github.com/vbauerster/mpb/v8/decor"
+    "github.com/etoczek/mpb/v8"
+    "github.com/etoczek/mpb/v8/decor"
 )
 
 func main() {

@@ -1,10 +1,10 @@
-module github.com/vbauerster/mpb/_examples/suppressBar
+module github.com/etoczek/mpb/_examples/suppressBar
 
 go 1.17
 
 require (
 	github.com/mattn/go-runewidth v0.0.13
-	github.com/vbauerster/mpb/v8 v8.0.0
+	github.com/etoczek/mpb/v8 v8.0.0
 )
 
 require (

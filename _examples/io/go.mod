@@ -1,8 +1,8 @@
-module github.com/vbauerster/mpb/_examples/io
+module github.com/etoczek/mpb/_examples/io
 
 go 1.17
 
-require github.com/vbauerster/mpb/v8 v8.0.0
+require github.com/etoczek/mpb/v8 v8.0.0
 
 require (
 	github.com/VividCortex/ewma v1.2.0 // indirect

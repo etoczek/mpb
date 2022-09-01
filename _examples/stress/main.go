@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/vbauerster/mpb/v8"
-	"github.com/vbauerster/mpb/v8/decor"
+	"github.com/etoczek/mpb/v8"
+	"github.com/etoczek/mpb/v8/decor"
 )
 
 const (
